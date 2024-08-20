@@ -1,0 +1,13 @@
+User Roles:
+
+Auctioneer: Creates and manages auctions.
+Bidder: Participates in auctions by placing bids.
+Auction Time Limit:
+
+Each auction has a duration, set by the auctioneer. The auction automatically closes when the time is up.
+Proxy Bidding System:
+
+Bidders can set a maximum bid, and the system will automatically bid on their behalf up to that limit.
+Auction Summary:
+
+Users can view a summary of the auction, including the final price, highest bidder, and auctioneer.
