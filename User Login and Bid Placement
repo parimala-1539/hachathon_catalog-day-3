@@ -1,0 +1,10 @@
+Enter your choice: 2
+Enter username: Bob
+User Bob logged in successfully.
+
+Enter your choice: 4
+Available auctions:
+1. Antique Vase (Current Price: 100.0) - Active
+Enter auction number to bid: 1
+Enter your bid amount: 120
+New highest bid: 120.0 by Bob
