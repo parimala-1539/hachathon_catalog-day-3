@@ -1,0 +1,12 @@
+Enter your choice: 6
+Available auctions:
+1. Antique Vase (Current Price: 120.0)
+
+Enter auction number to view summary: 1
+
+Auction Summary:
+Item Name: Antique Vase
+Starting Price: 100.0
+Final Price: 120.0
+Highest Bidder: Bob
+Auctioneer: Alice
