@@ -1,0 +1,4 @@
+Enter your choice: 1
+Enter username: Bob
+Enter role (auctioneer/bidder): bidder
+User Bob registered successfully as bidder.
