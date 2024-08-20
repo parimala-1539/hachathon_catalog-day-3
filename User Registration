@@ -1,0 +1,12 @@
+1. Register User
+2. Login User
+3. Create Auction
+4. Place Bid
+5. Set Max Bid
+6. View Auction Summary
+7. Exit
+
+Enter your choice: 1
+Enter username: Alice
+Enter role (auctioneer/bidder): auctioneer
+User Alice registered successfully as auctioneer.
