@@ -1,0 +1,6 @@
+Enter your choice: 3
+Enter your username: Alice
+Enter the item name for auction: Antique Vase
+Enter starting price: 100.0
+Enter auction duration in minutes: 1
+Auction created for Antique Vase starting at 100.0 for 1 minutes.
